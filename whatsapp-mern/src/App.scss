@@ -1,0 +1,18 @@
+$color_background_1: #dadbd3;
+$color_background_2: #ededed;
+
+.app {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  background: $color_background_1;
+}
+
+.app__body {
+  display: flex;
+  background: $color_background_2;
+  margin-top: -50px;
+  height: 90vh;
+  width: 90vw;
+  box-shadow: -1px 4px 20px -6px rgba($color: black, $alpha: 1.0);
+}
