@@ -1,3 +1,8 @@
+How to start?
+1. Download repository
+2. Run command 'npm install' in downloaded repository
+3. After installing run command 'npm start'
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
